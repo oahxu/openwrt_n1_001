@@ -131,14 +131,14 @@ CONFIG_PACKAGE_lsblk=y
 CONFIG_PACKAGE_lua-cjson=y
 CONFIG_PACKAGE_lua-maxminddb=y
 CONFIG_PACKAGE_luasocket=y
-# CONFIG_PACKAGE_luci-app-accesscontrol is not set
+CONFIG_PACKAGE_luci-app-accesscontrol=y
 CONFIG_PACKAGE_luci-app-adguardhome=y
 CONFIG_PACKAGE_luci-app-amlogic=y
-# CONFIG_PACKAGE_luci-app-arpbind is not set
-# CONFIG_PACKAGE_luci-app-ddns is not set
+CONFIG_PACKAGE_luci-app-arpbind=y
+CONFIG_PACKAGE_luci-app-ddns=y
 CONFIG_PACKAGE_luci-app-docker=y
 CONFIG_PACKAGE_luci-app-dockerman=y
-# CONFIG_PACKAGE_luci-app-filetransfer is not set
+CONFIG_PACKAGE_luci-app-filetransfer=y
 CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci-app-ramfree=y
 # CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-ng is not set
@@ -149,7 +149,7 @@ CONFIG_PACKAGE_luci-app-ramfree=y
 # CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_SHORTCUT_FE_CM is not set
 # CONFIG_PACKAGE_luci-app-unblockmusic_INCLUDE_UnblockNeteaseMusic_Go is not set
 # CONFIG_PACKAGE_luci-app-upnp is not set
-# CONFIG_PACKAGE_luci-app-vsftpd is not set
+CONFIG_PACKAGE_luci-app-vsftpd=y
 CONFIG_PACKAGE_luci-app-vssr=y
 # CONFIG_PACKAGE_luci-app-vssr_INCLUDE_ShadowsocksR_Libev_Server is not set
 # CONFIG_PACKAGE_luci-app-vssr_INCLUDE_Trojan is not set
