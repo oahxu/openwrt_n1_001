@@ -1,4 +1,5 @@
 # openwrt_n1_test
+2023-1-22 使用5.4.229内核
 感谢 
 
 项目来源： https://github.com/huangqian8/Cloud-N1-OpenWrt
