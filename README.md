@@ -1,6 +1,6 @@
 # openwrt_n1_test
 
-2023-1-23 增加广告屏蔽大师plus+ adbyby_plus
+2023-1-23 增加广告屏蔽大师plus+ adbyby_plus（待调试）
 
 2023-1-22 使用5.4.229内核
 
