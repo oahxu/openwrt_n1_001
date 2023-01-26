@@ -1,5 +1,7 @@
 # openwrt_n1_test
 
+2023-1-25 增加passwall。
+
 2023-1-24 修改使用5.15.89内核，增加IPv6支持。
 
 2023-1-23 增加广告屏蔽大师plus+ adbyby_plus。
