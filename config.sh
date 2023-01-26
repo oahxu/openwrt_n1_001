@@ -154,6 +154,7 @@ CONFIG_PACKAGE_luci-app-vsftpd=y
 CONFIG_PACKAGE_luci-app-vssr=y
 # CONFIG_PACKAGE_luci-app-vssr_INCLUDE_ShadowsocksR_Libev_Server is not set
 # CONFIG_PACKAGE_luci-app-vssr_INCLUDE_Trojan is not set
+CONFIG_PACKAGE_luci-app-passwall=y
 CONFIG_PACKAGE_luci-app-zerotier=y
 CONFIG_PACKAGE_luci-i18n-amlogic-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-docker-zh-cn=y
@@ -258,8 +259,6 @@ CONFIG_PACKAGE_luci-lib-fs=y
 CONFIG_PACKAGE_miniupnpd=y
 CONFIG_PACKAGE_vsftpd-alt=y
 CONFIG_VSFTPD_USE_UCI_SCRIPTS=y
-CONFIG_PACKAGE_odhcp6c=y
-CONFIG_PACKAGE_odhcpd-ipv6only=y
-CONFIG_PACKAGE_luci-proto-ipv6=y
+CONFIG_PACKAGE_ipv6-helper=y
 CONFIG_PACKAGE_luci-proto-ppp=y
 EOF
