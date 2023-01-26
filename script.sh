@@ -23,7 +23,7 @@ git clone https://github.com/jerrykuku/luci-app-vssr.git package-temp/luci-app-v
 git clone https://github.com/kenzok8/small.git package-temp/small
 git clone https://github.com/kenzok8/openwrt-packages.git package-temp/openwrt-packages
 cp -r package-temp/small/* package/lean/
-mv -f package-temp/openwrt-packages package/lean/
+mv -f package-temp/openwrt-packages/* package/lean/
 mv -f package-temp/lua-maxminddb package/lean/
 mv -f package-temp/luci-app-vssr package/lean/
 rm -rf package-temp
