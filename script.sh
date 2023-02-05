@@ -23,6 +23,7 @@ git clone https://github.com/jerrykuku/luci-app-vssr.git package-temp/luci-app-v
 git clone https://github.com/kenzok8/small.git package-temp/small
 git clone https://github.com/kenzok8/openwrt-packages.git package-temp/openwrt-packages
 cp -r package-temp/small/* package/lean/
+rm -rf package/lean/xray-plugin
 rm -rf package-temp/openwrt-packages/luci-app-dockerman
 mv -f package-temp/openwrt-packages/luci-app-amlogic package/lean/
 mv -f package-temp/openwrt-packages/luci-app-passwall package/lean/
