@@ -1,4 +1,4 @@
-# openwrt_n1_test
+# openwrt_n1_actions
 
 2023-02-05 使用5.15.91内核。
 
